@@ -14,6 +14,7 @@ Liens vers
 - deployed_addresses.md
 - avoiding_common_attacks.md  
 - Docs des chefs de projet
+- Votre trello
 
 ## Description des fonctionnalités
 
