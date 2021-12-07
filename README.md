@@ -3,17 +3,14 @@
 ## Description  
   
 Description concise du projet  
-Lien vers la page déployée
 
-## Documentation
+## Links
 
 Liens vers
+- Votre site web déployé
 - whitepaper.pdf
-- Test_explication.md
-- Design_pattern_decissions.md
-- deployed_addresses.md
-- avoiding_common_attacks.md  
-- Docs des chefs de projet
+- dossier de docs dev demandés
+- dossier des docs cdp demandés 
 - Votre trello
 
 ## Description des fonctionnalités
